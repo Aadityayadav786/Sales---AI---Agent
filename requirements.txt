@@ -1,0 +1,9 @@
+crewai
+groq
+streamlit
+requests
+gspread
+oauth2client
+python-dotenv
+smtplib
+email
